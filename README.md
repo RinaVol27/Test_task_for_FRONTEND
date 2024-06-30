@@ -1,2 +1,3 @@
 # Test_task_for_FRONTEND
-Test assignment for the Frontend developer vacancy
+Сервер запускается командой <span id="comand">node server.js</span>
+#comand{font-weight=600}
